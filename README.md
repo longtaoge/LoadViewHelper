@@ -1,5 +1,9 @@
 # LoadViewHelper
 切换加载中，加载失败，加载成功布局，定义一个LoadViewHelper所有界面通用。
+![](https://github.com/longtaoge/LoadViewHelper/blob/master/lodingview.gif)
+
+----------
+
 
 
     LoadViewHelper helper = new LoadViewHelper(listView);  
